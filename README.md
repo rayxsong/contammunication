@@ -28,3 +28,8 @@ Bubbles embody the same notion of positive contamination. They create shared spa
 * [The Mushroom at the End of the World](https://www.nytimes.com/2022/11/28/world/asia/china-protests-blank-sheets.html)
 * [The Science of Bubbles](https://www.youtube.com/watch?v=6-Ub_r_GFZY)
 
+### Improvement
+- Make soap box fully-sealed to prevent leaking
+- Add an automatic spray to make blocks wet all the time
+- Revise the recipe of soap to make bubbles last longer
+
