@@ -4,6 +4,9 @@ Ray Song<br>
 Contammunication is a contammunicated word of contamination and communication in linguistics.
 
 ## Description
+Consider contamination as a means of communication and collaboration. "The Mushroom at the End of the World" presents an alternative perspective on contamination, highlighting its positive aspects. By fostering communication and collaboration among individuals from diverse backgrounds and cultures, human beings have built the complex civilization we inhabit today. This is where contamination plays a crucial role in shaping us.
+
+Bubbles embody the same notion of positive contamination. They create shared spaces, blur boundaries, and embrace others. With time, these bubbles coalesce into solid and flexible structures, much like the development of human civilization. The installation enables two individuals to interact by touching finger-shaped sensors, while bubble machines produce bubbles that float on the 3D printed blocks.
 
 ## Hardware
 - Arduino
@@ -23,4 +26,5 @@ Contammunication is a contammunicated word of contamination and communication in
 
 ### Reference
 * [The Mushroom at the End of the World](https://www.nytimes.com/2022/11/28/world/asia/china-protests-blank-sheets.html)
+* [The Science of Bubbles](https://www.youtube.com/watch?v=6-Ub_r_GFZY)
 
