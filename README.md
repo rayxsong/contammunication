@@ -1,2 +1,2 @@
-# contammunication
-documentation of contammunication
+# Contammunication
+The documentation of Contammunication
