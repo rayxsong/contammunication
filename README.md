@@ -14,10 +14,13 @@ Bubbles embody the same notion of positive contamination. They create shared spa
 - Capacity Sensors
 - Tyvek Sheet
 - Electrostatic Sprayer
+- Prusa MK3s 3D Printers
+- Polymaker PLA Filament
 
 ## Software
 - Arduino IDE
 - Sharp 3D
+- UltiMaker Cura
 
 ## Images
 <img width=60% src="https://github.com/raysonguw/contammunication/blob/main/img/com_full.jpeg" alt="Full">
